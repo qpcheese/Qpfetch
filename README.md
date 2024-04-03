@@ -1,3 +1,5 @@
+![alt text](https://i.imgur.com/iYY1LrX.png)
+ 
  Shell: ZSH
 
  ZSH_THEME="funky"
