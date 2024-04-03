@@ -1,9 +1,12 @@
-Shell ZSH
-ZSH_THEME="funky"
-terminal image backend : Kitty
-Font: MesloLGSDZ Nerd Font 10pt
+ Shell: ZSH
 
-Dependencies:
+ ZSH_THEME="funky"
+ 
+ terminal image backend : Kitty
+ 
+ Font: MesloLGSDZ Nerd Font 10pt
+
+# Dependencies:
 
 ## Kitty:
 
