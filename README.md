@@ -33,5 +33,5 @@ To install extract both folders to your home folder.
 dont forget to rename your current neofetch config.conf if you intend to keep it.
 
 Open your KDE konsole , change profile to qpconfige , also change to your desired shell, the profile default is bash.
-
 Run neofetch or append in your shellrc file, please check neofetch github for specifics.
+To get the desired blur effect, add a background image in the cachyQp coloscheme, images are included in the neofetch folder.
